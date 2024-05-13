@@ -1,5 +1,5 @@
 # Climate-Wins                            
-<!Machine Learning Solutions for European Weather Patterns
+**Machine Learning Solutions for European Weather Patterns**
 
 ## Introduction
 <!-- Brief overview emphasizing the urgency of machine learning solutions for climate adaptation in Europe. -->
